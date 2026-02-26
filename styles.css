@@ -20,6 +20,10 @@ header {
     padding: 0 0.5rem ;
     max-width: 1200px;
 }
+.loogoo {
+    width: 65px;
+    height: auto;
+}
 
 .navigation ul {
     display: flex;
